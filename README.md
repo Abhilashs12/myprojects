@@ -38,10 +38,4 @@ This project was built and run entirely within CodeSandbox. If you want to view 
 3. Drag and drop events to another day to reschedule.
 4. Use the search input or filter dropdown to narrow down events.
 
-## Running Locally (Optional)
 
-To run this project outside CodeSandbox (e.g., locally using Node.js):
-
-1. Export or download the project ZIP from CodeSandbox.
-2. Unzip and open the project in your code editor (e.g., VS Code).
-3. In the terminal, run the following:
